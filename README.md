@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header / Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Hi+There!+I'm+Sahaya+Barbaral+Pricy+M;Full+Stack+%26+Software+Developer;MCA+Graduate+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines= Hi+There!+I'm+Sahaya+Barbaral+Pricy+M;Full+Stack+%26+Software+Developer;MCA+Graduate+%7C+Tech+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
     <b>Building scalable web applications & solving real-world problems with code.</b>
