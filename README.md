@@ -44,35 +44,34 @@ Hello! I'm **Sahaya Barbaral Pricy**, an MCA graduate passionate about software 
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php" alt="Programming Languages"/>
 </p>
+**Python | C | C++ | Java | JavaScript | PHP**
 
 ### 🌐 Web Development
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,flask" alt="Web Development"/>
 </p>
+**HTML | CSS | Flask**
 
-### 🗄️ Database
-
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Database"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
 </p>
+**MySQL | MongoDB**
 
 ### 🤖 AI / Machine Learning
-
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="AI and Machine Learning"/>
 </p>
+**TensorFlow | Keras | CNN | EfficientNetB0 | OpenCV**
 
 ### 🔧 Tools & Platforms
-
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools and Platforms"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
 </p>
-
+**Git | GitHub | VS Code**
 ---
 
 ## 🚀 Featured Project
