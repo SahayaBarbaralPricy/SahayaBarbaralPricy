@@ -1,125 +1,176 @@
  <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=70&lines=Hi+There!+I'm+Sahaya+Barbaral+Pricy;Python+%7C+Full+Stack+Developer;MCA+Graduate+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Sahaya+Barbaral+Pricy;MCA+Graduate;Full+Stack+%26+Software+Developer;Python+%7C+AI+%2F+ML+Enthusiast" alt="Typing SVG" />
 
-<h3>💻 Aspiring Software Developer | Python Developer | AI/ML Enthusiast</h3>
+  <br/>
 
-<a href="mailto:sahayabarbaralpricy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/SahayaBarbaralPricy"><img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Welcome%20to%20My%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" alt="Welcome Banner"/>
 
-<img src="https://komarev.com/ghpvc/?username=SahayaBarbaralPricy&label=Profile%20Views&color=00D9FF&style=flat-square" />
+  <br/>
+
+  <a href="https://www.linkedin.com/in/sahaya-barbaral-pricy-m-97aa852b2">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sahayabarbaralpricy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/SahayaBarbaralPricy">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=SahayaBarbaralPricy&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 👩‍💻 About Me
 
-- 🎓 MCA Graduate from Anna University.
-- 💻 Interested in Software and Full Stack Development.
+Hello! I'm **Sahaya Barbaral Pricy**, an MCA graduate passionate about software development and emerging technologies.
+
+- 🎓 MCA Graduate in Computer Applications.
+- 💻 Interested in Full Stack and Software Development.
 - 🐍 Working with Python and Flask.
-- 🤖 Exploring AI and Machine Learning.
-- 🗄️ Interested in database development using MySQL.
-- 🚀 Seeking entry-level Software Developer and Python Developer opportunities.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 🗄️ Familiar with MySQL and database management.
+- 🚀 Enjoy developing practical applications and solving problems.
+- 🌱 Always learning and exploring new technologies.
 
 ---
 
 ## 🛠️ Technical Skills
 
-<div align="center">
+### 💻 Programming Languages
 
-**Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" alt="Programming Languages"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js&theme=dark" />
+### 🌐 Web Development
 
-**Frontend & Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,flask" alt="Web Development"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,flask&theme=dark" />
+### 🗄️ Database
 
-**Database & AI/ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Database"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,tensorflow,opencv&theme=dark" />
+### 🤖 AI / Machine Learning
 
-**Development Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="AI and Machine Learning"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+### 🔧 Tools & Platforms
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools and Platforms"/>
+</p>
 
 ---
 
 ## 🚀 Featured Project
 
-<div align="center">
-
 ### 🦴 Bone Fracture Detection System
 
-<a href="https://github.com/SahayaBarbaralPricy/Bone-Fracture-Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SahayaBarbaralPricy&repo=Bone-Fracture-Detection&theme=tokyonight&hide_border=true" />
-</a>
+<details>
+<summary><b>View Project Details</b></summary>
 
-</div>
+**Technologies:** Python, Flask, TensorFlow, Keras, EfficientNetB0, MySQL, HTML, CSS
 
-An AI-powered web application that classifies bone X-ray images as Fractured or Normal using EfficientNetB0 and Transfer Learning.
+A CNN-based web application that classifies bone X-ray images into two categories: Fractured and Normal.
 
-**Features**
-- X-ray image upload and prediction
-- CNN-based image classification
-- User registration and login
-- Prediction history
-- PDF report generation
+**Key Features:**
+- Upload bone X-ray images.
+- Predict fracture or normal classification.
+- EfficientNetB0 transfer learning.
+- User authentication.
+- Store prediction history using MySQL.
+- Generate downloadable PDF reports.
 
-**Technologies:** Python, Flask, TensorFlow, Keras, MySQL, HTML and CSS.
+**GitHub Repository:**
 
-🔗 [View Project on GitHub](https://github.com/SahayaBarbaralPricy/Bone-Fracture-Detection)
+[Bone Fracture Detection System](https://github.com/SahayaBarbaralPricy/Bone-Fracture-Detection)
+
+</details>
+
+<p align="center">
+  <a href="https://github.com/SahayaBarbaralPricy/Bone-Fracture-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SahayaBarbaralPricy&repo=Bone-Fracture-Detection&theme=tokyonight&hide_border=true" alt="Featured Project"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SahayaBarbaralPricy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahayaBarbaralPricy&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SahayaBarbaralPricy&show_icons=true&theme=tokyonight&hide_border=true" />
+---
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahayaBarbaralPricy&layout=compact&theme=tokyonight&hide_border=true" />
+## 🔥 GitHub Contribution Streak
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SahayaBarbaralPricy&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SahayaBarbaralPricy&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics"/>
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SahayaBarbaralPricy&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahayaBarbaralPricy&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
+</p>
 
 ---
 
-## 🌱 Currently Learning
+## 🎯 Currently Focused On
 
-- Python programming
-- Full Stack Web Development
-- Artificial Intelligence and Machine Learning
-- SQL and Database Management
-- Software Development Practices
+- Strengthening Python, C, C++, and Java programming.
+- Improving Full Stack Development skills.
+- Exploring AI and Machine Learning applications.
+- Building practical software development projects.
+- Improving coding and problem-solving abilities.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahaya-barbaral-pricy-m-97aa852b2">
+    <img src="https://img.shields.io/badge/LinkedIn-Sahaya%20Barbaral%20Pricy-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sahayabarbaralpricy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sahayabarbaralpricy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/SahayaBarbaralPricy">
+    <img src="https://img.shields.io/badge/GitHub-SahayaBarbaralPricy-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  📧 <b>Email:</b> sahayabarbaralpricy@gmail.com
+  <br/>
+  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/sahaya-barbaral-pricy-m-97aa852b2">View My Profile</a>
+  <br/>
+  💻 <b>GitHub:</b> <a href="https://github.com/SahayaBarbaralPricy">Explore My Repositories</a>
+</p>
+
+---
 
 <div align="center">
 
-<a href="mailto:sahayabarbaralpricy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/SahayaBarbaralPricy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  ### ✨ "Dream. Learn. Build. Repeat." ✨
 
-### ✨ Consistency, curiosity and code — that's how I grow!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
