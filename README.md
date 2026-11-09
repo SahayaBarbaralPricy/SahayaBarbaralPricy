@@ -102,7 +102,13 @@ A CNN-based web application that classifies bone X-ray images into two categorie
 
 <p align="center">
   <a href="https://github.com/SahayaBarbaralPricy/Bone-Fracture-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SahayaBarbaralPricy&repo=Bone-Fracture-Detection&theme=tokyonight&hide_border=true" alt="Featured Project"/>
+    <img src="https://opengraph.githubassets.com/1/SahayaBarbaralPricy/Bone-Fracture-Detection" width="85%" alt="Bone Fracture Detection Project"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SahayaBarbaralPricy/Bone-Fracture-Detection">
+    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github" alt="View Project"/>
   </a>
 </p>
 
@@ -111,24 +117,9 @@ A CNN-based web application that classifies bone X-ray images into two categorie
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SahayaBarbaralPricy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahayaBarbaralPricy&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SahayaBarbaralPricy&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahayaBarbaralPricy&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
+  <a href="https://ghstats.dev/">
+    <img src="https://ghstats.dev/api/card?username=SahayaBarbaralPricy&theme=tokyonight" width="85%" alt="GitHub Statistics"/>
+  </a>
 </p>
 
 ---
